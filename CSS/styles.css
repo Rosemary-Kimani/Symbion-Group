@@ -2,11 +2,9 @@ html, body {
     background: #f2f2f2 !important ;
     }
 
-.img-responsive {
+.bigimage{
+    padding: 0 !important;
     margin-top: 4px;
-    margin-left: -30px;
-    width: 860px;
-    height: 590px;
 }
 
 .navswrapper{
@@ -78,6 +76,10 @@ nav .collapse a{
      }
 } 
 
+.paras{
+    margin-top: 4px;
+}
+
 .one{
     background: #000;
     color:#fff;
@@ -87,7 +89,7 @@ nav .collapse a{
     background: #3C92CB;
     color:#fff;
     padding: 50px !important;
-    margin-top: 20px;
+    margin-top: 10px;
 
     
 }
