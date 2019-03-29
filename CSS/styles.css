@@ -3,7 +3,7 @@ html, body {
     }
 
 .img-responsive {
-    padding-top: 4px;
+    margin-top: 4px;
     margin-left: -30px;
     width: 860px;
     height: 590px;
