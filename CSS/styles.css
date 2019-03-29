@@ -1,0 +1,218 @@
+html, body {
+    background: #f2f2f2 !important ;
+    }
+
+.img-responsive {
+    padding-top: 4px;
+    margin-left: -30px;
+    width: 860px;
+    height: 590px;
+}
+
+.navswrapper{
+    box-shadow: 0 3px 2px 2px gray;
+    background: #fff !important;
+}
+.navitems{
+    padding:0 !important;
+}
+.firstnav{
+    background: #fff;
+    color:#fff
+}
+.collapse.show {
+    background: #517FCD !important;
+}
+nav .collapse a{
+    color:#fff !important;
+    text-transform: uppercase;
+    margin: 0 30px;
+}
+.navbar-expand-lg .navbar-nav {
+    background: #517FCD !important;
+    padding: 10px 0;
+    width: 79%;
+ }
+
+ .fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    background: #24313a;
+    color: white;
+  }
+
+  .fa-facebook {
+    background: #24313a;
+    color: white;
+  }
+
+  .page-footer {
+      background-color: #24313a;
+      color: #fff;
+  }
+.footer-copyright {
+    background-color: #517FCD;
+}
+
+ 
+@media (min-width:992px){
+   .navitems .navbar{
+    padding: 0 !important;
+ }
+  .navbar-brand{
+         margin-left:20px !important;
+     }
+}
+
+@media (max-width:992px){
+   
+     .navbar-brand{
+         margin-left:20px !important;
+     }
+     .navbar button{
+         margin-right:20px;
+         margin-bottom: 10px
+     }
+} 
+
+.one{
+    background: #000;
+    color:#fff;
+    padding: 50px !important;
+}
+.two{
+    background: #3C92CB;
+    color:#fff;
+    padding: 50px !important;
+    margin-top: 20px;
+
+    
+}
+/* service image */
+img{
+    height: 18rem;
+    background: #eee;
+    width: 100%;
+}
+/* entire footer background and color */
+.page-footer{
+    background: #24323B;
+    color:#BABEC1;
+}
+/* removing card border */
+.card{
+    border: none !important;
+}
+
+/* work page styles */
+
+.background-image{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    opacity: 0.3;
+}
+
+.image-text {
+    position: relative;
+    text-align: center;
+    color: #000;
+  }
+
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    padding-top: 50px;
+  }
+
+
+/* copyright styles */
+.footer-copyright{
+    background: #3C92CB;
+    padding:15px 0;
+    color:#BABEC1;
+    font-size: 13px;
+}
+
+/* social medias contacts styl */
+.social{
+    justify-content: end;
+}
+.social a{
+display: inline-block;
+padding: 10px;
+}
+/* newsletter submition form */
+.newsletter{
+    padding: 50px 0;
+    color: #fff;
+
+}
+.newsletter li{
+    display: inline-block;
+    color:#BABEC1;
+    font-size: 13px;
+    
+}
+.newsletter input{
+    padding: 10px 30px;
+    color:#BABEC1;
+    background: none;
+    border: 1px solid #3C92CB;
+    color: #fff;
+    margin: 0 30px;
+}
+.newsletter button{
+    padding-right: 80px;
+    padding-top: 11px;
+    color:#BABEC1;
+    padding-bottom: 11px;
+    margin: 5px;
+    background: #3C92CB;
+    color: #fff
+    
+}
+
+
+/* big heading of the location */
+.title h5{
+    border-bottom: 4px solid #3C92CB;
+    padding-bottom: 10px;
+    color:#BABEC1;
+    color: #3C92CB;
+    width: 170px;
+}
+
+.title{
+    margin-bottom: 50px;
+}
+
+/* offices location subheadings */
+.office{
+    border-left: 2px solid #37434B;
+    color:#BABEC1;
+}
+.offices h6{
+    color:#3C92CB;
+}
+.offices li{
+    display: block;
+    color:#BABEC1;
+}
+/* small footer text */
+.span{
+    font-size: 13px;
+    margin-left: 60px;
+}
+
+/* remove horizontal scroll behaviour */
+.row{
+    margin: 0 !important;
+}
+
+
+
