@@ -94,6 +94,7 @@ nav .collapse a{
 
     
 }
+
 /* service image */
 img{
     height: 18rem;
@@ -132,6 +133,9 @@ img{
     padding-top: 50px;
   }
 
+.carousel-img{
+    width: 33%;
+}
 
 /* copyright styles */
 .footer-copyright{
