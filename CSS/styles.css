@@ -136,6 +136,9 @@ img{
 .carousel-img{
     width: 33%;
 }
+.carousel-img-wrapper .col-md-4{
+    padding: 0 !important;
+}
 
 /* copyright styles */
 .footer-copyright{
